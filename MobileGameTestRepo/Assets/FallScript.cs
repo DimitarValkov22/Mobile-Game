@@ -9,6 +9,7 @@ public class FallScript : MonoBehaviour
     {
         theCube.SetActive(true);
     }
+ Add-Cubes
 
     //nice code bro
    //ahhahaha
@@ -16,4 +17,8 @@ public class FallScript : MonoBehaviour
 
 
     //just another test maaan
+=======
+   
+    //You have glue ?
+ main
 }
