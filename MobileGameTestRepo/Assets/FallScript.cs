@@ -10,5 +10,6 @@ public class FallScript : MonoBehaviour
         theCube.SetActive(true);
     }
 
+    //nice code bro
    
 }
